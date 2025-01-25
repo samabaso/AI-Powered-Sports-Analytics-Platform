@@ -27,7 +27,7 @@ The AI-Powered Sports Analytics Platform is a cutting-edge application designed 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-sports-analytics.git
+   git clone https://github.com/samabaso/ai-sports-analytics.git
    ```
 2. Install dependencies:
    ```bash
